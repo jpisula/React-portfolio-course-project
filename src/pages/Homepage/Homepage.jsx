@@ -1,5 +1,12 @@
+import styles from './Homepage.module.scss';
+import HomepageHeader from './components/HomepageHeader/HomepageHeader';
+
 const Homepage = () => {
-  return <p>Hello world</p>;
+  return (
+    <main className={styles.homepage}>
+      <HomepageHeader />
+    </main>
+  );
 };
 
 export default Homepage;

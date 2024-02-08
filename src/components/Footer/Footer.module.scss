@@ -1,0 +1,48 @@
+.footer {
+  padding: 80px 0;
+
+  background-color: var(--secondary-color);
+
+  .footerWrapper {
+    display: flex;
+    flex-direction: column;
+    gap: 45px;
+
+    .footerInfo {
+      display: flex;
+      flex-direction: column;
+
+      p {
+        font-size: 15px;
+        font-weight: 400;
+
+        max-width: 800px;
+      }
+
+      a {
+        font-weight: 600;
+
+        padding: 20px 0;
+
+        display: flex;
+        align-items: center;
+        gap: 20px;
+
+        svg {
+          width: 22px;
+          height: 22px;
+        }
+      }
+    }
+
+    .footerIcons {
+      display: flex;
+      gap: 25px;
+
+      svg {
+        width: 30px;
+        height: 30px;
+      }
+    }
+  }
+}
