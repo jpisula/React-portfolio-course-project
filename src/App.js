@@ -21,6 +21,7 @@ export default App;
 
 /*
  PSUJE TEN KOD HAHA!
+ POPRAWKA #1
   Zadania do wykonania:
   Figma: https://www.figma.com/file/k6ay6K1LuBRSbSJglIz7ZU/Developer-Portfolio-Website-Design-(Community)?type=design&node-id=0-1&mode=design&t=LwHpGDXcGL0TZJyB-0
 
